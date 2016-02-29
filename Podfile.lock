@@ -1,0 +1,10 @@
+PODS:
+  - XcodeCoverage (1.2.2)
+
+DEPENDENCIES:
+  - XcodeCoverage (~> 1.0)
+
+SPEC CHECKSUMS:
+  XcodeCoverage: 46ab36f35da908cf70498a34610c95d24230303a
+
+COCOAPODS: 0.39.0
